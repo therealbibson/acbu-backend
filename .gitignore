@@ -53,3 +53,6 @@ audit/reports/*.log
 !audit/reports/*.txt
 !audit/reports/*.json
 !audit/reports/last-run.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
